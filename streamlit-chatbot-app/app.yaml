@@ -1,0 +1,17 @@
+command: [
+  "streamlit", 
+  "run",
+  "app.py"
+]
+
+env:
+  - name: STREAMLIT_BROWSER_GATHER_USAGE_STATS
+    value: "false"
+  - name: "SERVING_ENDPOINT"
+    valueFrom: "serving-endpoint"
+
+resources:
+  - name: genie-space
+    genie_space:
+      space_id: "01f0b0833e2d17d59207b406e1e6f453" # Set this to your Genie space ID
+      permission: CAN_RUN

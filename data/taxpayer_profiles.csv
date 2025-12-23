@@ -1,0 +1,201 @@
+Taxpayer_SSN,Tax_Year,First_Name,Middle_Name,Last_Name,Gender,Address_Line_1,Address_Line_2,City,State,Postal_Code,Email,Phone_Number
+512938471,2020,David,Q,Clark,F,277 Maplewood Rd,Apt 1,Dallas,IL,50117,david.clark81@mail.com,312-555-1193
+512938471,2021,Laura,B,Green,M,239 Pine St,Unit 3,Phoenix,TX,43436,laura.green81@test.com,512-555-2281
+512938471,2022,Sophia,J,Hernandez,M,352 Cedar St,Apt 4,Denver,CA,73218,sophia.hernandez81@test.com,217-555-9252
+512938471,2023,Laura,A,Clark,F,796 Redwood Rd,Unit 3,Phoenix,IL,76690,laura.clark81@mail.com,512-555-1809
+409182736,2020,Emma,R,Green,M,357 Aspen Blvd,,New York,WA,74517,emma.green75@example.com,217-555-5027
+409182736,2021,Sophia,G,Clark,F,442 Maplewood Ln,Unit 2,Atlanta,WA,32648,sophia.clark75@example.com,214-555-7391
+409182736,2022,Ashley,A,Lopez,F,728 Aspen Blvd,,Chicago,GA,74944,ashley.lopez75@mail.com,212-555-7878
+409182736,2023,Sophia,N,Lopez,M,515 Redwood Ln,,Boston,CA,30973,sophia.lopez75@example.com,213-555-1905
+382910475,2020,Linda,B,Clark,M,189 Willow Way,Apt 2,Atlanta,MA,93497,linda.clark92@test.com,213-555-7089
+382910475,2021,George,J,Hill,M,221 Palm Way,Unit 3,Austin,OR,26495,george.hill92@mail.com,312-555-4228
+382910475,2022,James,E,Lopez,M,139 Maple Ln,Apt 4,Miami,TX,83264,james.lopez92@example.com,214-555-3012
+382910475,2023,Sarah,H,Brown,F,246 Redwood St,Unit 1,Portland,GA,71492,sarah.brown92@test.com,404-555-8807
+674839201,2020,William,D,Clark,M,144 Birch Rd,,Denver,TX,48230,william.clark66@mail.com,512-555-1332
+674839201,2021,Elizabeth,M,King,F,355 Cedar St,,Chicago,IL,73249,elizabeth.king66@test.com,312-555-1999
+674839201,2022,David,P,Green,M,998 Pine Way,Unit 2,Austin,WA,71928,david.green66@example.com,512-555-4411
+674839201,2023,Laura,L,Clark,F,435 Magnolia Blvd,,Seattle,CA,72415,laura.clark66@mail.com,206-555-6721
+598273640,2020,Robert,E,Johnson,M,654 Cedar Ln,,Seattle,WA,98101,robert.johnson58@example.com,206-555-5090
+598273640,2021,Robert,E,Johnson,M,654 Cedar Ln,,Seattle,WA,98101,robert.johnson58@example.com,206-555-5090
+598273640,2022,Robert,E,Johnson,M,655 Cedar Ln,,Seattle,WA,98101,r.johnson58@example.com,206-555-5101
+598273640,2023,Robert,E,Johnson,M,655 Cedar Ln,,Seattle,WA,98101,r.johnson58@example.com,206-555-5101
+721839405,2020,Linda,F,Martinez,F,987 Willow Dr,,Miami,FL,33101,linda.martinez99@example.com,305-555-6112
+721839405,2021,Linda,F,Martinez,F,987 Willow Dr,,Miami,FL,33101,linda.martinez99@example.com,305-555-6112
+721839405,2022,Linda,F,Martinez,F,988 Willow Dr,,Miami,FL,33101,l.martinez99@example.com,305-555-6123
+721839405,2023,Linda,F,Martinez,F,988 Willow Dr,Apt 1,Miami,FL,33101,l.martinez99@example.com,305-555-6123
+836271904,2020,David,G,Lee,M,234 Spruce St,,Chicago,IL,60601,david.lee1985@example.com,312-555-7134
+836271904,2021,David,G,Lee,M,234 Spruce St,,Chicago,IL,60601,david.lee1985@example.com,312-555-7134
+836271904,2022,David,G,Lee,M,235 Spruce St,,Chicago,IL,60601,d.lee85@example.com,312-555-7145
+836271904,2023,David,G,Lee,M,235 Spruce St,Unit 4,Chicago,IL,60601,d.lee85@example.com,312-555-7145
+902374815,2020,Jessica,H,Garcia,F,543 Elm St,,Los Angeles,CA,90001,jessica.garcia1972@example.com,213-555-8156
+902374815,2021,Jessica,H,Garcia,F,543 Elm St,,Los Angeles,CA,90001,jessica.garcia1972@example.com,213-555-8156
+902374815,2022,Jessica,H,Garcia,F,544 Elm St,,Los Angeles,CA,90001,j.garcia72@example.com,213-555-8167
+902374815,2023,Jessica,H,Garcia,F,544 Elm St,Apt 2,Los Angeles,CA,90001,j.garcia72@example.com,213-555-8167
+110293847,2020,William,I,Clark,M,876 Aspen Way,,New York,NY,10001,william.clark1960@example.com,212-555-9178
+110293847,2021,William,I,Clark,M,876 Aspen Way,,New York,NY,10001,william.clark1960@example.com,212-555-9178
+110293847,2022,William,I,Clark,M,877 Aspen Way,,New York,NY,10001,w.clark60@example.com,212-555-9189
+110293847,2023,William,I,Clark,M,877 Aspen Way,Unit 5,New York,NY,10001,w.clark60@example.com,212-555-9189
+293847561,2020,Elizabeth,J,Lopez,F,135 Magnolia Ave,,Phoenix,AZ,85001,elizabeth.lopez2001@example.com,602-555-0190
+293847561,2021,Elizabeth,J,Lopez,F,135 Magnolia Ave,,Phoenix,AZ,85001,elizabeth.lopez2001@example.com,602-555-0190
+293847561,2022,Elizabeth,J,Lopez,F,136 Magnolia Ave,,Phoenix,AZ,85001,e.lopez01@example.com,602-555-0201
+293847561,2023,Elizabeth,J,Lopez,F,136 Magnolia Ave,Apt 1,Phoenix,AZ,85001,e.lopez01@example.com,602-555-0201
+483920175,2020,Charles,K,Hernandez,M,567 Palm St,,Dallas,TX,75201,charles.hernandez1995@example.com,214-555-1212
+483920175,2021,Charles,K,Hernandez,M,567 Palm St,,Dallas,TX,75201,charles.hernandez1995@example.com,214-555-1212
+483920175,2022,Charles,K,Hernandez,M,568 Palm St,,Dallas,TX,75201,c.hernandez95@example.com,214-555-1223
+483920175,2023,Charles,K,Hernandez,M,568 Palm St,Apt 3,Dallas,TX,75201,c.hernandez95@example.com,214-555-1223
+392847105,2020,Ashley,L,King,F,789 Redwood Dr,,Portland,OR,97201,ashley.king1988@example.com,503-555-2323
+392847105,2021,Ashley,L,King,F,789 Redwood Dr,,Portland,OR,97201,ashley.king1988@example.com,503-555-2323
+392847105,2022,Ashley,L,King,F,790 Redwood Dr,,Portland,OR,97201,a.king88@example.com,503-555-2334
+392847105,2023,Ashley,L,King,F,790 Redwood Dr,Unit 2,Portland,OR,97201,a.king88@example.com,503-555-2334
+564738291,2020,George,M,Wright,M,246 Cypress Ln,,Columbus,OH,43201,george.wright1945@example.com,614-555-3434
+564738291,2021,George,M,Wright,M,246 Cypress Ln,,Columbus,OH,43201,george.wright1945@example.com,614-555-3434
+564738291,2022,George,M,Wright,M,247 Cypress Ln,,Columbus,OH,43201,g.wright45@example.com,614-555-3445
+748291056,2020,Sophia,N,Lopez,F,369 Fir St,,Orlando,FL,32801,sophia.lopez1993@example.com,407-555-4545
+748291056,2021,Sophia,N,Lopez,F,369 Fir St,,Orlando,FL,32801,sophia.lopez1993@example.com,407-555-4545
+748291056,2022,Sophia,N,Lopez,F,370 Fir St,,Orlando,FL,32801,s.lopez93@example.com,407-555-4556
+748291056,2023,Sophia,N,Lopez,F,370 Fir St,Apt 2,Orlando,FL,32801,s.lopez93@example.com,407-555-4556
+849201735,2020,Andrew,O,Hill,M,951 Maplewood Dr,,Boston,MA,02101,andrew.hill1979@example.com,617-555-5656
+849201735,2021,Andrew,O,Hill,M,951 Maplewood Dr,,Boston,MA,02101,andrew.hill1979@example.com,617-555-5656
+849201735,2022,Andrew,O,Hill,M,952 Maplewood Dr,,Boston,MA,02101,a.hill79@example.com,617-555-5667
+849201735,2023,Andrew,O,Hill,M,952 Maplewood Dr,Apt 4,Boston,MA,02101,a.hill79@example.com,617-555-5667
+920384756,2020,Daniel,P,Baker,M,411 Oak St,,Miami,FL,33101,daniel.baker1968@example.com,305-555-6701
+920384756,2021,Daniel,P,Baker,M,411 Oak St,,Miami,FL,33101,daniel.baker1968@example.com,305-555-6701
+920384756,2022,Daniel,P,Baker,M,412 Oak St,,Miami,FL,33101,d.baker68@example.com,305-555-6712
+920384756,2023,Daniel,P,Baker,M,412 Oak St,Apt 1,Miami,FL,33101,d.baker68@example.com,305-555-6712
+102938475,2020,Mary,G,Adams,F,723 Elm Rd,,Chicago,IL,60601,mary.adams2003@example.com,312-555-7812
+102938475,2021,Mary,G,Adams,F,723 Elm Rd,,Chicago,IL,60601,mary.adams2003@example.com,312-555-7812
+293847192,2020,James,H,Clark,M,834 Cedar Way,,Seattle,WA,98101,james.clark1990@example.com,206-555-8234
+293847192,2021,James,H,Clark,M,834 Cedar Way,,Seattle,WA,98101,james.clark1990@example.com,206-555-8234
+293847192,2022,James,H,Clark,M,835 Cedar Way,,Seattle,WA,98101,j.clark90@example.com,206-555-8245
+293847192,2023,James,H,Clark,M,835 Cedar Way,Apt 2,Seattle,WA,98101,j.clark90@example.com,206-555-8245
+384920175,2020,Emma,K,Hernandez,F,912 Maple Ln,,Austin,TX,73301,emma.hernandez1982@example.com,512-555-9102
+384920175,2021,Emma,K,Hernandez,F,912 Maple Ln,,Austin,TX,73301,emma.hernandez1982@example.com,512-555-9102
+384920175,2022,Emma,K,Hernandez,F,913 Maple Ln,,Austin,TX,73301,e.hernandez82@example.com,512-555-9113
+384920175,2023,Emma,K,Hernandez,F,913 Maple Ln,Apt 1,Austin,TX,73301,e.hernandez82@example.com,512-555-9113
+475920384,2020,Sarah,B,Scott,F,321 Willow St,,Portland,OR,97201,sarah.scott1976@example.com,503-555-9321
+475920384,2021,Sarah,B,Scott,F,321 Willow St,,Portland,OR,97201,sarah.scott1976@example.com,503-555-9321
+475920384,2022,Sarah,B,Scott,F,322 Willow St,,Portland,OR,97201,s.scott76@example.com,503-555-9332
+475920384,2023,Sarah,B,Scott,F,322 Willow St,Apt 2,Portland,OR,97201,s.scott76@example.com,503-555-9332
+583920471,2020,Michael,F,Brown,M,142 Pine St,,Boston,MA,02101,michael.brown1987@example.com,617-555-8011
+583920471,2021,Michael,F,Brown,M,142 Pine St,,Boston,MA,02101,michael.brown1987@example.com,617-555-8011
+583920471,2022,Michael,F,Brown,M,143 Pine St,,Boston,MA,02101,m.brown87@example.com,617-555-8022
+583920471,2023,Michael,F,Brown,M,143 Pine St,Apt 3,Boston,MA,02101,m.brown87@example.com,617-555-8022
+675839201,2020,Sophia,E,Williams,F,951 Birch Rd,,Chicago,IL,60601,sophia.williams1998@example.com,312-555-9123
+675839201,2021,Sophia,E,Williams,F,951 Birch Rd,,Chicago,IL,60601,sophia.williams1998@example.com,312-555-9123
+675839201,2022,Sophia,E,Williams,F,952 Birch Rd,,Chicago,IL,60601,s.williams98@example.com,312-555-9134
+675839201,2023,Sophia,E,Williams,F,952 Birch Rd,Apt 1,Chicago,IL,60601,s.williams98@example.com,312-555-9134
+762839104,2020,Andrew,G,Johnson,M,215 Cedar Ln,,New York,NY,10001,andrew.johnson1965@example.com,212-555-7405
+762839104,2021,Andrew,G,Johnson,M,215 Cedar Ln,,New York,NY,10001,andrew.johnson1965@example.com,212-555-7405
+762839104,2022,Andrew,G,Johnson,M,216 Cedar Ln,,New York,NY,10001,a.johnson65@example.com,212-555-7416
+762839104,2023,Andrew,G,Johnson,M,216 Cedar Ln,Apt 2,New York,NY,10001,a.johnson65@example.com,212-555-7416
+839201475,2020,Jessica,H,Martinez,F,331 Spruce St,,Miami,FL,33101,jessica.martinez1959@example.com,305-555-8201
+839201475,2021,Jessica,H,Martinez,F,331 Spruce St,,Miami,FL,33101,jessica.martinez1959@example.com,305-555-8201
+839201475,2022,Jessica,H,Martinez,F,332 Spruce St,,Miami,FL,33101,j.martinez59@example.com,305-555-8212
+839201475,2023,Jessica,H,Martinez,F,332 Spruce St,Apt 1,Miami,FL,33101,j.martinez59@example.com,305-555-8212
+920384175,2020,Emily,J,Hill,F,145 Oak St,,Boston,MA,02101,emily.hill1971@example.com,617-555-9102
+920384175,2021,Emily,J,Hill,F,145 Oak St,,Boston,MA,02101,emily.hill1971@example.com,617-555-9102
+920384175,2022,Emily,J,Hill,F,146 Oak St,,Boston,MA,02101,e.hill71@example.com,617-555-9113
+920384175,2023,Emily,J,Hill,F,146 Oak St,Apt 2,Boston,MA,02101,e.hill71@example.com,617-555-9113
+102938471,2020,William,K,Green,M,512 Cedar Ln,,Atlanta,GA,30301,william.green1996@example.com,404-555-7701
+102938471,2021,William,K,Green,M,512 Cedar Ln,,Atlanta,GA,30301,william.green1996@example.com,404-555-7701
+102938471,2022,William,K,Green,M,513 Cedar Ln,,Atlanta,GA,30301,w.green96@example.com,404-555-7712
+102938471,2023,William,K,Green,M,513 Cedar Ln,Apt 3,Atlanta,GA,30301,w.green96@example.com,404-555-7712
+203948175,2020,Sarah,L,Lopez,F,224 Birch St,,Chicago,IL,60601,sarah.lopez1983@example.com,312-555-8412
+203948175,2021,Sarah,L,Lopez,F,224 Birch St,,Chicago,IL,60601,sarah.lopez1983@example.com,312-555-8412
+203948175,2022,Sarah,L,Lopez,F,225 Birch St,,Chicago,IL,60601,s.lopez83@example.com,312-555-8423
+203948175,2023,Sarah,L,Lopez,F,225 Birch St,Apt 1,Chicago,IL,60601,s.lopez83@example.com,312-555-8423
+309284756,2020,Andrew,M,Brown,M,371 Pine Way,,Seattle,WA,98101,andrew.brown1977@example.com,206-555-8901
+309284756,2021,Andrew,M,Brown,M,371 Pine Way,,Seattle,WA,98101,andrew.brown1977@example.com,206-555-8901
+309284756,2022,Andrew,M,Brown,M,372 Pine Way,,Seattle,WA,98101,a.brown77@example.com,206-555-8912
+309284756,2023,Andrew,M,Brown,M,372 Pine Way,Apt 2,Seattle,WA,98101,a.brown77@example.com,206-555-8912
+482910375,2020,Jessica,N,Clark,F,411 Magnolia Ln,,Portland,OR,97201,jessica.clark1989@example.com,503-555-8050
+482910375,2021,Jessica,N,Clark,F,411 Magnolia Ln,,Portland,OR,97201,jessica.clark1989@example.com,503-555-8050
+482910375,2022,Jessica,N,Clark,F,412 Magnolia Ln,,Portland,OR,97201,j.clark89@example.com,503-555-8061
+482910375,2023,Jessica,N,Clark,F,412 Magnolia Ln,Apt 2,Portland,OR,97201,j.clark89@example.com,503-555-8061
+583920146,2020,Elizabeth,O,Adams,F,522 Maple St,,Boston,MA,02101,elizabeth.adams1994@example.com,617-555-8301
+583920146,2021,Elizabeth,O,Adams,F,522 Maple St,,Boston,MA,02101,elizabeth.adams1994@example.com,617-555-8301
+583920146,2022,Elizabeth,O,Adams,F,523 Maple St,,Boston,MA,02101,e.adams94@example.com,617-555-8312
+583920146,2023,Elizabeth,O,Adams,F,523 Maple St,Apt 1,Boston,MA,02101,e.adams94@example.com,617-555-8312
+674920381,2020,Charles,P,Hernandez,M,631 Oak Rd,,Miami,FL,33101,charles.hernandez1962@example.com,305-555-8601
+674920381,2021,Charles,P,Hernandez,M,631 Oak Rd,,Miami,FL,33101,charles.hernandez1962@example.com,305-555-8601
+674920381,2022,Charles,P,Hernandez,M,632 Oak Rd,,Miami,FL,33101,c.hernandez62@example.com,305-555-8612
+674920381,2023,Charles,P,Hernandez,M,632 Oak Rd,Apt 1,Miami,FL,33101,c.hernandez62@example.com,305-555-8612
+789203471,2020,Linda,Q,King,F,145 Spruce Ln,,Seattle,WA,98101,linda.king1955@example.com,206-555-8202
+789203471,2021,Linda,Q,King,F,145 Spruce Ln,,Seattle,WA,98101,linda.king1955@example.com,206-555-8202
+789203471,2022,Linda,Q,King,F,146 Spruce Ln,,Seattle,WA,98101,l.king55@example.com,206-555-8213
+789203471,2023,Linda,Q,King,F,146 Spruce Ln,Apt 2,Seattle,WA,98101,l.king55@example.com,206-555-8213
+892034176,2020,Michael,R,Baker,M,212 Cedar Rd,,Chicago,IL,60601,michael.baker1980@example.com,312-555-8701
+892034176,2021,Michael,R,Baker,M,212 Cedar Rd,,Chicago,IL,60601,michael.baker1980@example.com,312-555-8701
+892034176,2022,Michael,R,Baker,M,213 Cedar Rd,,Chicago,IL,60601,m.baker80@example.com,312-555-8712
+892034176,2023,Michael,R,Baker,M,213 Cedar Rd,Apt 3,Chicago,IL,60601,m.baker80@example.com,312-555-8712
+903847261,2020,Laura,S,Green,F,334 Oak Ln,,Portland,OR,97201,laura.green1991@example.com,503-555-8901
+903847261,2021,Laura,S,Green,F,334 Oak Ln,,Portland,OR,97201,laura.green1991@example.com,503-555-8901
+903847261,2022,Laura,S,Green,F,335 Oak Ln,,Portland,OR,97201,l.green91@example.com,503-555-8912
+903847261,2023,Laura,S,Green,F,335 Oak Ln,Apt 2,Portland,OR,97201,l.green91@example.com,503-555-8912
+102938461,2020,Andrew,T,Clark,M,147 Maple St,,Boston,MA,02101,andrew.clark1974@example.com,617-555-8801
+102938461,2021,Andrew,T,Clark,M,147 Maple St,,Boston,MA,02101,andrew.clark1974@example.com,617-555-8801
+102938461,2022,Andrew,T,Clark,M,148 Maple St,,Boston,MA,02101,a.clark74@example.com,617-555-8812
+102938461,2023,Andrew,T,Clark,M,148 Maple St,Apt 3,Boston,MA,02101,a.clark74@example.com,617-555-8812
+203948162,2020,Sophia,U,Lopez,F,223 Birch Ln,,Chicago,IL,60601,sophia.lopez1986@example.com,312-555-8902
+203948162,2021,Sophia,U,Lopez,F,223 Birch Ln,,Chicago,IL,60601,sophia.lopez1986@example.com,312-555-8902
+203948162,2022,Sophia,U,Lopez,F,224 Birch Ln,,Chicago,IL,60601,s.lopez86@example.com,312-555-8913
+203948162,2023,Sophia,U,Lopez,F,224 Birch Ln,Apt 1,Chicago,IL,60601,s.lopez86@example.com,312-555-8913
+309284752,2020,William,V,Hill,M,561 Cedar Rd,,Seattle,WA,98101,william.hill2000@example.com,206-555-9001
+309284752,2021,William,V,Hill,M,561 Cedar Rd,,Seattle,WA,98101,william.hill2000@example.com,206-555-9001
+309284752,2022,William,V,Hill,M,562 Cedar Rd,,Seattle,WA,98101,w.hill00@example.com,206-555-9012
+309284752,2023,William,V,Hill,M,562 Cedar Rd,Apt 2,Seattle,WA,98101,w.hill00@example.com,206-555-9012
+482910372,2020,Elizabeth,W,Adams,F,425 Pine Ln,,Boston,MA,02101,elizabeth.adams1997@example.com,617-555-9201
+482910372,2021,Elizabeth,W,Adams,F,425 Pine Ln,,Boston,MA,02101,elizabeth.adams1997@example.com,617-555-9201
+482910372,2022,Elizabeth,W,Adams,F,426 Pine Ln,,Boston,MA,02101,e.adams97@example.com,617-555-9212
+482910372,2023,Elizabeth,W,Adams,F,426 Pine Ln,Apt 1,Boston,MA,02101,e.adams97@example.com,617-555-9212
+583920143,2020,George,X,King,M,337 Oak Rd,,Chicago,IL,60601,george.king1963@example.com,312-555-9301
+583920143,2021,George,X,King,M,337 Oak Rd,,Chicago,IL,60601,george.king1963@example.com,312-555-9301
+583920143,2022,George,X,King,M,338 Oak Rd,,Chicago,IL,60601,g.king63@example.com,312-555-9312
+583920143,2023,George,X,King,M,338 Oak Rd,Apt 2,Chicago,IL,60601,g.king63@example.com,312-555-9312
+674920387,2020,Sophia,Y,Lopez,F,561 Birch Rd,,Miami,FL,33101,sophia.lopez1984@example.com,305-555-9401
+674920387,2021,Sophia,Y,Lopez,F,561 Birch Rd,,Miami,FL,33101,sophia.lopez1984@example.com,305-555-9401
+674920387,2022,Sophia,Y,Lopez,F,562 Birch Rd,,Miami,FL,33101,s.lopez84@example.com,305-555-9412
+674920387,2023,Sophia,Y,Lopez,F,562 Birch Rd,Apt 1,Miami,FL,33101,s.lopez84@example.com,305-555-9412
+789203478,2020,Charles,Z,Wright,M,145 Maple Ln,,Seattle,WA,98101,charles.wright1950@example.com,206-555-9501
+789203478,2021,Charles,Z,Wright,M,145 Maple Ln,,Seattle,WA,98101,charles.wright1950@example.com,206-555-9501
+789203478,2022,Charles,Z,Wright,M,146 Maple Ln,,Seattle,WA,98101,c.wright50@example.com,206-555-9512
+892034179,2020,Sarah,A,Clark,F,223 Elm St,,Boston,MA,02101,sarah.clark1973@example.com,617-555-9601
+892034179,2021,Sarah,A,Clark,F,223 Elm St,,Boston,MA,02101,sarah.clark1973@example.com,617-555-9601
+892034179,2022,Sarah,A,Clark,F,224 Elm St,,Boston,MA,02101,s.clark73@example.com,617-555-9612
+892034179,2023,Sarah,A,Clark,F,224 Elm St,Apt 2,Boston,MA,02101,s.clark73@example.com,617-555-9612
+903847267,2020,Michael,B,Adams,M,333 Spruce Rd,,Portland,OR,97201,michael.adams1988@example.com,503-555-9701
+903847267,2021,Michael,B,Adams,M,333 Spruce Rd,,Portland,OR,97201,michael.adams1988@example.com,503-555-9701
+903847267,2022,Michael,B,Adams,M,334 Spruce Rd,,Portland,OR,97201,m.adams88@example.com,503-555-9712
+903847267,2023,Michael,B,Adams,M,334 Spruce Rd,Apt 1,Portland,OR,97201,m.adams88@example.com,503-555-9712
+102938469,2020,Emma,C,Hernandez,F,415 Oak St,,Miami,FL,33101,emma.hernandez1992@example.com,305-555-9801
+102938469,2021,Emma,C,Hernandez,F,415 Oak St,,Miami,FL,33101,emma.hernandez1992@example.com,305-555-9801
+102938469,2022,Emma,C,Hernandez,F,416 Oak St,,Miami,FL,33101,e.hernandez92@example.com,305-555-9812
+102938469,2023,Emma,C,Hernandez,F,416 Oak St,Apt 2,Miami,FL,33101,e.hernandez92@example.com,305-555-9812
+203948179,2020,James,D,Brown,M,321 Pine Ln,,Chicago,IL,60601,james.brown1970@example.com,312-555-9901
+203948179,2021,James,D,Brown,M,321 Pine Ln,,Chicago,IL,60601,james.brown1970@example.com,312-555-9901
+203948179,2022,James,D,Brown,M,322 Pine Ln,,Chicago,IL,60601,j.brown70@example.com,312-555-9912
+203948179,2023,James,D,Brown,M,322 Pine Ln,Apt 3,Chicago,IL,60601,j.brown70@example.com,312-555-9912
+309284759,2020,Laura,E,Green,F,523 Cedar St,,Seattle,WA,98101,laura.green1999@example.com,206-555-1001
+309284759,2021,Laura,E,Green,F,523 Cedar St,,Seattle,WA,98101,laura.green1999@example.com,206-555-1001
+309284759,2022,Laura,E,Green,F,524 Cedar St,,Seattle,WA,98101,l.green99@example.com,206-555-1012
+309284759,2023,Laura,E,Green,F,524 Cedar St,Apt 1,Seattle,WA,98101,l.green99@example.com,206-555-1012
+482910379,2020,David,F,King,M,134 Oak Rd,,Boston,MA,02101,david.king1985@example.com,617-555-1101
+482910379,2021,David,F,King,M,134 Oak Rd,,Boston,MA,02101,david.king1985@example.com,617-555-1101
+482910379,2022,David,F,King,M,135 Oak Rd,,Boston,MA,02101,d.king85@example.com,617-555-1112
+482910379,2023,David,F,King,M,135 Oak Rd,Apt 2,Boston,MA,02101,d.king85@example.com,617-555-1112
+583920149,2020,Jessica,G,Baker,F,217 Pine St,,Chicago,IL,60601,jessica.baker1967@example.com,312-555-1201
+583920149,2021,Jessica,G,Baker,F,217 Pine St,,Chicago,IL,60601,jessica.baker1967@example.com,312-555-1201
+583920149,2022,Jessica,G,Baker,F,218 Pine St,,Chicago,IL,60601,j.baker67@example.com,312-555-1212
+674920389,2020,Sophia,H,Lopez,F,535 Cedar Rd,,Miami,FL,33101,sophia.lopez1993@example.com,305-555-1301
+674920389,2021,Sophia,H,Lopez,F,535 Cedar Rd,,Miami,FL,33101,sophia.lopez1993@example.com,305-555-1301
+674920389,2022,Sophia,H,Lopez,F,536 Cedar Rd,,Miami,FL,33101,s.lopez93@example.com,305-555-1312
+789203481,2020,Andrew,I,Wright,M,145 Maple Ln,,Seattle,WA,98101,andrew.wright1948@example.com,206-555-1401
+789203481,2021,Andrew,I,Wright,M,145 Maple Ln,,Seattle,WA,98101,andrew.wright1948@example.com,206-555-1401
+789203481,2022,Andrew,I,Wright,M,146 Maple Ln,,Seattle,WA,98101,a.wright48@example.com,206-555-1412
+789203481,2023,Andrew,I,Wright,M,146 Maple Ln,Apt 1,Seattle,WA,98101,a.wright48@example.com,206-555-1412
+892034182,2020,Elizabeth,J,Green,F,222 Oak Rd,,Portland,OR,97201,elizabeth.green1978@example.com,503-555-1501
+892034182,2021,Elizabeth,J,Green,F,222 Oak Rd,,Portland,OR,97201,elizabeth.green1978@example.com,503-555-1501
+892034182,2022,Elizabeth,J,Green,F,223 Oak Rd,,Portland,OR,97201,e.green78@example.com,503-555-1512
+903847270,2020,Michael,K,Adams,M,411 Maple St,,Miami,FL,33101,michael.adams1995@example.com,305-555-1601
+903847270,2021,Michael,K,Adams,M,411 Maple St,,Miami,FL,33101,michael.adams1995@example.com,305-555-1601
+903847270,2022,Michael,K,Adams,M,412 Maple St,,Miami,FL,33101,m.adams95@example.com,305-555-1612
